@@ -14,10 +14,11 @@ import org.bukkit.plugin.java.JavaPlugin;
  * 
  * Main class of a bukkit plug-in.
  * 
- * DirtControl is an internal closed-source bukkit-plugin project for WhateverMC Server (Suibian-MC).
- * The plug-in is released under 3-clause BSD license. Some rights reserved by kjiang 2014.
+ * ItemsControl is a private open source bukkit-plugin project for WhateverMC Server (Suibian-MC).
  * 
- * @author k_jiang (GitHub:k-jiang)
+ * The plug-in and its source code are released under a 3-clause BSD license. All rights reserved by kjiang 2014.
+ * 
+ * @author kjiang (GitHub: k-jiang)
  * @version 0.0.1.172
  */
 
